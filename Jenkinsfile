@@ -7,7 +7,7 @@ stage('Checkout-Code'){
 	}
 	
 stage('Stage2'){
-	sh 'pwd'
+	//sh 'pwd'
 
 	}
 }
