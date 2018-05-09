@@ -4,5 +4,5 @@ package com.vn.prac.lib
 Library.sayHello()
 println(Library.add(1,3))
 
-int result=Library.add(10,20);
-println(result)
+int result=Library.add(17,23);
+println "${result}"
